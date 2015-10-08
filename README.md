@@ -22,4 +22,12 @@ Att,
 
 Carlos Nicolau Galves
 
+// Para deletar
+
+                    id
+coloca assim: carro/56167f3a32e11c8041660d50
+
+
+
+
 
