@@ -67,7 +67,7 @@ app.put('/carro', function(req, res){
 	var latitude = validator.trim(validator.escape(req.param('latitude')));
 	var longitude = validator.trim(validator.escape(req.param('longitude')));
 
-	carro.update(tipo, nome, desc, urlFoto, urlVideo, latitude, longitude, function(resp) {
+	carro.update(id, tipo, nome, desc, urlFoto, urlVideo, latitude, longitude, function(resp) {
 		res.json(resp);
 	});
 
