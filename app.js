@@ -69,8 +69,9 @@ app.put('/carro', function(req, res){
 
 	carro.update(tipo, nome, desc, urlFoto, urlVideo, latitude, longitude, function(resp) {
 		res.json(resp);
-		console.log("Atualizando dados por PUT!");
 	});
+
+	console.log("Atualizando dados por PUT!");
 });
 
 app.delete('/carro/:id', function(req, res){
