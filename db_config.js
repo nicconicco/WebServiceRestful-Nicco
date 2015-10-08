@@ -1,4 +1,4 @@
-var db_string = 'localhost:27017/CarroDb/carros';
+var db_string = 'localhost:27017/data/carro';
 
 var mongoose = require('mongoose').connect(db_string);
 
@@ -7,7 +7,7 @@ var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'Erro ao conectar no banco'));
 
 db.once('open', function() {
-	var programmerSchema = mongoose.Schema({
+	var carroSchema = mongoose.Schema({
 		tipo: String,
 		nome: String,
 		desc: String,
@@ -18,5 +18,5 @@ db.once('open', function() {
 		created_at: Date
 	});
 
-	exports.programmer = mongoose.model('programmer', programmerSchema);
+	exports.programmer = mongoose.model('carro', carroSchema);
 });

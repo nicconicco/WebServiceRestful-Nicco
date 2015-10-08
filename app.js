@@ -22,9 +22,9 @@ app.get('/carro', function(req, res){
 
 	carro.list(function(resp) { 
 		res.json(resp);
-		console.log("Fazendo GET!");
 	});
 
+	console.log("Fazendo GET!");
 });
 
 app.get('/carro/:id', function(req, res){
@@ -33,8 +33,9 @@ app.get('/carro/:id', function(req, res){
 
 	carro.findCarro(id, function(resp) {
 		res.json(resp);
-		console.log("Fazendo GET! por Id!");
 	});
+
+	console.log("Fazendo GET! por Id!");
 });
 
 app.post('/carro', function(req, res){
@@ -50,9 +51,9 @@ app.post('/carro', function(req, res){
 
 	carro.save(tipo, nome, desc, urlFoto, urlVideo, latitude, longitude, function(resp) {
 		res.json(resp);
-		console.log("Salvando Dados! POST");
 	});
 
+	console.log("Salvando Dados! POST");
 });
 
 app.put('/carro', function(req, res){
@@ -70,7 +71,6 @@ app.put('/carro', function(req, res){
 		res.json(resp);
 		console.log("Atualizando dados por PUT!");
 	});
-
 });
 
 app.delete('/carro/:id', function(req, res){
@@ -79,7 +79,6 @@ app.delete('/carro/:id', function(req, res){
 
 	carro.delete(id, function(resp) {
 		res.json(resp);
-		console.log("Deletando Dados por DELETE!");
 	});
-
+	console.log("Deletando Dados por DELETE!");
 });
