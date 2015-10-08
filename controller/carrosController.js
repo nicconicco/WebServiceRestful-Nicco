@@ -51,7 +51,7 @@ exports.save = function(tipo, nome, desc, urlFoto, urlVideo, latitude, longitude
 
 };
 
-exports.update = function(tipo, nome, desc, urlFoto, urlVideo, latitude, longitude, callback) {
+exports.update = function(id, tipo, nome, desc, urlFoto, urlVideo, latitude, longitude, callback) {
 
 	db.carros.findById(id, function(error, carro){
 
