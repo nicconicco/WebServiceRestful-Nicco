@@ -1,15 +1,25 @@
-# webservicerestful
-Web Service restful nodejs
 
-Express - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. With a myriad of HTTP utility methods and middleware at your disposal.
-Mongoose - elegant mongodb object modeling for node.js
-
-app.js - "Entry point" da aplicação, definição das rotas.
-app_config.js - Configurações de acesso e cabeçalhos http.
-db_config.js - configuração do schema e de conexão com o mongodb
-controller/languageController.js - isolamento do crud no mongodb
-
-web service - 
 
 GET 127.0.0.1:5000/carro
+
+Para compilar o projeto:
+
+npm install // para instalar dependencias do package.json
+
+Fique de olho se você configurou o mongodb
+
+nodejs app.js
+
+Fiz um doc:
+
+https://docs.google.com/document/d/1DuzctyVJZM90os3D1rMgkN_gjelEdAUObOeaNA3vZv0/edit
+
+Você pode visualizar ele me enviando um email para:
+
+nicolaugalves@gmail.com / nicolaugalves@livetouch.com.br
+
+Att,
+
+Carlos Nicolau Galves
+
 

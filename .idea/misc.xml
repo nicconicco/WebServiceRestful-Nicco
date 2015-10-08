@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$USER_HOME$/CursosDoCNG" value="4317638085000" />
-        <entry key="$USER_HOME$/Documents/gitProjects/Sunshine-Version-2" value="4330660554000" />
-        <entry key="$USER_HOME$/Documents/gitProjects/portosergurocartoes" value="4332465786000" />
-      </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
