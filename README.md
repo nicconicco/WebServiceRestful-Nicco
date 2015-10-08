@@ -28,6 +28,12 @@ Carlos Nicolau Galves
 coloca assim: carro/56167f3a32e11c8041660d50
 
 
+// Para editar
+
+poe id -> id do q se qr mudar
+    tipo -> tipo2 no postman gg
+
+http://ec2-54-149-165-208.us-west-2.compute.amazonaws.com:5000/carro?id=5616c4fc973934834907d396&tipo=tipo2
 
 
 
