@@ -2,7 +2,7 @@ var db = require('../db_config.js');
 
 exports.list = function(callback){
 
-	db.programmer.find({}, function(error, carros) {
+	db.carros.find({}, function(error, carros) {
 
 		if(error){
 			callback({error: 'Não foi possivel listar os carros'});
@@ -15,7 +15,7 @@ exports.list = function(callback){
 };
 
 exports.findCarro = function(id, callback){
-	db.programmer.findById(id, function(error, carro){
+	db.carros.findById(id, function(error, carro){
 
 		if(error){
 			callback({error: 'Não foi possivel encontrar o carro'});
@@ -29,7 +29,7 @@ exports.findCarro = function(id, callback){
 
 exports.save = function(id, tipo, nome, desc, urlFoto, urlVideo, latitude, longitude, callback){
 
-	new db.programmer({
+	new db.carros({
 		'tipo': tipo,
 		'nome': nome,
 		'desc': desc,
@@ -51,7 +51,7 @@ exports.save = function(id, tipo, nome, desc, urlFoto, urlVideo, latitude, longi
 
 exports.update = function(id, tipo, nome, desc, urlFoto, urlVideo, latitude, longitude, callback) {
 
-	db.programmer.findById(id, function(error, carro){
+	db.carros.findById(id, function(error, carro){
 
 		if(tipo) {
 			carro.tipo = tipo;
@@ -96,7 +96,7 @@ exports.update = function(id, tipo, nome, desc, urlFoto, urlVideo, latitude, lon
 
 exports.delete = function(id, callback){
 
-	db.programmer.findById(id, function(error, language){
+	db.carros.findById(id, function(error, language){
 
 		if(error){
 			callback({error: 'Não foi possivel retornar a linguagem'});

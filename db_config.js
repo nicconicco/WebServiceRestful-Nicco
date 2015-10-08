@@ -18,5 +18,5 @@ db.once('open', function() {
 		created_at: Date
 	});
 
-	exports.programmer = mongoose.model('carro', carroSchema);
+	exports.carros = mongoose.model('carros', carroSchema);
 });
