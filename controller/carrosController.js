@@ -27,7 +27,9 @@ exports.findCarro = function(id, callback){
 
 };
 
-exports.save = function(id, tipo, nome, desc, urlFoto, urlVideo, latitude, longitude, callback){
+
+
+exports.save = function(tipo, nome, desc, urlFoto, urlVideo, latitude, longitude, callback){
 
 	new db.carros({
 		'tipo': tipo,
