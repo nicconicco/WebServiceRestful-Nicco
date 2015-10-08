@@ -1,365 +1,326 @@
-{
-  "carrosData": [
-    {
-      "id": 1,
-      "tipo": "classicos",
-      "nome": "Tucker 1948b",
-      "desc": "Descrição Tucker 1948 123",
-      "urlFoto": "https://storage.googleapis.com/livrows/tucker 1948.jpg",
-      "urlVideo": "",
-      "latitude": "",
-      "longitude": ""
-    },
-    {
-      "id": 2,
-      "tipo": "classicos",
-      "nome": "Chevrolet Corvette",
-      "desc": "Descrição Chevrolet Corvette",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Chevrolet_Corvette.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/classicos/corvette.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 3,
-      "tipo": "classicos",
-      "nome": "Chevrolet Impala Coupe",
-      "desc": "Descrição Chevrolet Impala Coupe",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Chevrolet_Impala_Coupe.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/classicos/chevrolet_impala.mp4",
-      "latitude": "-23.56422422",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 4,
-      "tipo": "classicos",
-      "nome": "Cadillac Deville Convertible",
-      "desc": "Descrição Cadillac Deville Convertible",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Cadillac_Deville_Convertible.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/classicos/cadillac_deville.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 5,
-      "tipo": "classicos",
-      "nome": "Chevrolet Bel-Air",
-      "desc": "Descrição Chevrolet Bel-Air",
-      "urlFoto": "https://storage.googleapis.com/livrows/foto_carro_5_1442370939144.jpg",
-      "urlVideo": "",
-      "latitude": "",
-      "longitude": ""
-    },
-    {
-      "id": 6,
-      "tipo": "classicos",
-      "nome": "Cadillac Eldorado",
-      "desc": "Descrição Cadillac Eldorado",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Cadillac_Eldorado.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/classicos/cadillac_eldorado.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 7,
-      "tipo": "classicos",
-      "nome": "Ferrari 250 GTO",
-      "desc": "Descrição Ferrari 250 GTO",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Ferrari_250_GTO.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/classicos/ferrari_gto.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 8,
-      "tipo": "classicos",
-      "nome": "Dodge Challenger",
-      "desc": "Descrição Dodge Challenger",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Dodge_Challenger.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/classicos/dodge_challenger.mp4",
-      "latitude": "",
-      "longitude": ""
-    },
-    {
-      "id": 9,
-      "tipo": "classicos",
-      "nome": "Camaro SS 1969",
-      "desc": "Descrição Camaro SS 1969",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Camaro_SS.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/classicos/camaro_ss.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 10,
-      "tipo": "classicos",
-      "nome": "Ford Mustang 1976",
-      "desc": "Descrição Ford Mustang 1976",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Ford_Mustang.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/classicos/ford_mustang.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 11,
-      "tipo": "esportivos",
-      "nome": "Ferrari FF 1",
-      "desc": "Descrição Ferrari FF",
-      "urlFoto": "https://storage.googleapis.com/livrows/foto_carro_11_1442287981927.jpg",
-      "urlVideo": "",
-      "latitude": "",
-      "longitude": ""
-    },
-    {
-      "id": 12,
-      "tipo": "esportivos",
-      "nome": "AUDI GT Spyder",
-      "desc": "Descrição AUDI GT Spyder",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/Audi_Spyder.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/audi_gt.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 13,
-      "tipo": "esportivos",
-      "nome": "Porsche Panamera",
-      "desc": "Descrição Porsche Panamera",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/Porsche_Panamera.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/porsche_panamera.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 14,
-      "tipo": "classicos",
-      "nome": "Lamborghini Tche2",
-      "desc": "Descrição Lamborghini Aventador",
-      "urlFoto": "https://storage.googleapis.com/livrows/foto_carro_14_1441997008385.jpg",
-      "urlVideo": "",
-      "latitude": "-8.1",
-      "longitude": "-8.40"
-    },
-    {
-      "id": 15,
-      "tipo": "esportivos",
-      "nome": "Chevrolet Corvette Z06",
-      "desc": "Descrição Chevrolet Corvette Z06",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/Chevrolet_Corvette_Z06.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/chevrolet_corvette.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 16,
-      "tipo": "esportivos",
-      "nome": "BMW M5",
-      "desc": "Descrição BMW M5",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/BMW.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/bmw-m5.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 17,
-      "tipo": "esportivos",
-      "nome": "Renault Megane RS Trophy",
-      "desc": "Descrição Renault Megane RS Trophy",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/Renault_Megane_Trophy.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/renault_megane.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 18,
-      "tipo": "esportivos",
-      "nome": "Maserati Grancabrio Sport",
-      "desc": "Descrição Maserati Grancabrio Sport",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/Maserati_Grancabrio_Sport.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/renault_megane.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 19,
-      "tipo": "classicos",
-      "nome": "McLAREN MP4-12C",
-      "desc": "Descrição McLAREN MP4-12C",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/McLAREN.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/mcLaren.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 20,
-      "tipo": "esportivos",
-      "nome": "MERCEDES-BENZ C63 AMG",
-      "desc": "Descrição MERCEDES-BENZ C63 AMG",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/MERCEDES_BENZ_AMG.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/mercedes.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 21,
-      "tipo": "classicos",
-      "nome": "Bugatti Veyron",
-      "desc": "Descrição Bugatti Veyron",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Bugatti_Veyron.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/luxo/bugatti_veyron.mp4",
-      "latitude": "47.9536592",
-      "longitude": "0.2246777"
-    },
-    {
-      "id": 22,
-      "tipo": "luxo",
-      "nome": "Ferrari Enzo23",
-      "desc": "Descrição Ferrari Enzo",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Ferrari_Enzo.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/luxo/ferrari_enzo.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 23,
-      "tipo": "luxo",
-      "nome": "Lamborghini Reventon",
-      "desc": "Descrição Lamborghini Reventon",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Lamborghini_Reventon.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/luxo/lamborghini _reventon.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 24,
-      "tipo": "luxo",
-      "nome": "Leblanc Mirabeau",
-      "desc": "Descrição Leblanc Mirabeau",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Leblanc_Mirabeau.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/luxo/leblanc_mirabeau.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 25,
-      "tipo": "esportivos",
-      "nome": "Shelby Super1212312",
-      "desc": "Descrição Shelby Supercars Ultimate",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Shelby_Supercars_Ultimate.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/luxo/shelby.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 26,
-      "tipo": "luxo",
-      "nome": "Pagani Zonda",
-      "desc": "Descrição Pagani Zonda",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Pagani_Zonda.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/luxo/pagani_zonda.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 27,
-      "tipo": "luxo",
-      "nome": "Koenigsegg CCX",
-      "desc": "Descrição Koenigsegg CCX",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Koenigsegg_CCX.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/luxo/koenigsegg.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 28,
-      "tipo": "luxo",
-      "nome": "Mercedes SLR McLaren",
-      "desc": "Descrição Mercedes SLR McLaren",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Mercedes_McLaren.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/luxo/mclaren_slr.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 29,
-      "tipo": "luxo",
-      "nome": "Rolls Royce Phantom",
-      "desc": "Descrição Rolls Royce Phantom",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Rolls_Royce_Phantom.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/luxo/rolls_royce.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 30,
-      "tipo": "luxo",
-      "nome": "Lexus LFAb",
-      "desc": "Descrição Lexus LFA",
-      "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Lexus_LFA.png",
-      "urlVideo": "http://www.livroiphone.com.br/carros/luxo/lexus.mp4",
-      "latitude": "-23.564224",
-      "longitude": "-46.653156"
-    },
-    {
-      "id": 51,
-      "tipo": "luxo",
-      "nome": "lykan",
-      "desc": "super carro arabe",
-      "urlFoto": "https://storage.googleapis.com/livrows/lykan.jpg",
-      "urlVideo": "",
-      "latitude": "24.38",
-      "longitude": "54.55"
-    },
-    {
-      "id": 53,
-      "tipo": "classicos",
-      "nome": "Ford focus",
-      "desc": "teste 123",
-      "urlFoto": "https://storage.googleapis.com/livrows/foto_carro_53_1442287383921.jpg",
-      "urlVideo": "",
-      "latitude": "",
-      "longitude": ""
-    },
-    {
-      "id": 54,
-      "tipo": "esportivos",
-      "nome": "corolla ae86",
-      "desc": "drift",
-      "urlFoto": "https://storage.googleapis.com/livrows/foto_carro_54_1442287464939.jpg",
-      "urlVideo": "",
-      "latitude": "",
-      "longitude": ""
-    },
-    {
-      "id": 60,
-      "tipo": "esportivos",
-      "nome": "Ferrari FF"
-    },
-    {
-      "id": 62,
-      "tipo": "classicos",
-      "nome": "b",
-      "desc": "c",
-      "urlVideo": "",
-      "latitude": "",
-      "longitude": ""
-    },
-    {
-      "id": 64,
-      "tipo": "esportivos",
-      "nome": "Jaguar",
-      "desc": "Jaguar da Amazonia",
-      "urlFoto": "https://storage.googleapis.com/livrows/jaguar.jpg",
-      "urlVideo": "",
-      "latitude": "",
-      "longitude": ""
-    },
-    {
-      "id": 65,
-      "tipo": "classicos",
-      "nome": "Fusca",
-      "latitude": "2132132",
-      "longitude": "584645"
-    }
-  ]
-}
+[
+  {
+    "tipo": "classicos",
+    "nome": "Tucker 1948b",
+    "desc": "Descrição Tucker 1948 123",
+    "urlFoto": "https://storage.googleapis.com/livrows/tucker 1948.jpg",
+    "urlVideo": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "tipo": "classicos",
+    "nome": "Chevrolet Corvette",
+    "desc": "Descrição Chevrolet Corvette",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Chevrolet_Corvette.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/classicos/corvette.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "classicos",
+    "nome": "Chevrolet Impala Coupe",
+    "desc": "Descrição Chevrolet Impala Coupe",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Chevrolet_Impala_Coupe.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/classicos/chevrolet_impala.mp4",
+    "latitude": "-23.56422422",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "classicos",
+    "nome": "Cadillac Deville Convertible",
+    "desc": "Descrição Cadillac Deville Convertible",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Cadillac_Deville_Convertible.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/classicos/cadillac_deville.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "classicos",
+    "nome": "Chevrolet Bel-Air",
+    "desc": "Descrição Chevrolet Bel-Air",
+    "urlFoto": "https://storage.googleapis.com/livrows/foto_carro_5_1442370939144.jpg",
+    "urlVideo": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "tipo": "classicos",
+    "nome": "Cadillac Eldorado",
+    "desc": "Descrição Cadillac Eldorado",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Cadillac_Eldorado.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/classicos/cadillac_eldorado.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "classicos",
+    "nome": "Ferrari 250 GTO",
+    "desc": "Descrição Ferrari 250 GTO",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Ferrari_250_GTO.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/classicos/ferrari_gto.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "classicos",
+    "nome": "Dodge Challenger",
+    "desc": "Descrição Dodge Challenger",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Dodge_Challenger.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/classicos/dodge_challenger.mp4",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "tipo": "classicos",
+    "nome": "Camaro SS 1969",
+    "desc": "Descrição Camaro SS 1969",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Camaro_SS.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/classicos/camaro_ss.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "classicos",
+    "nome": "Ford Mustang 1976",
+    "desc": "Descrição Ford Mustang 1976",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/classicos/Ford_Mustang.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/classicos/ford_mustang.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "esportivos",
+    "nome": "Ferrari FF 1",
+    "desc": "Descrição Ferrari FF",
+    "urlFoto": "https://storage.googleapis.com/livrows/foto_carro_11_1442287981927.jpg",
+    "urlVideo": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "tipo": "esportivos",
+    "nome": "AUDI GT Spyder",
+    "desc": "Descrição AUDI GT Spyder",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/Audi_Spyder.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/audi_gt.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "esportivos",
+    "nome": "Porsche Panamera",
+    "desc": "Descrição Porsche Panamera",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/Porsche_Panamera.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/porsche_panamera.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "classicos",
+    "nome": "Lamborghini Tche2",
+    "desc": "Descrição Lamborghini Aventador",
+    "urlFoto": "https://storage.googleapis.com/livrows/foto_carro_14_1441997008385.jpg",
+    "urlVideo": "",
+    "latitude": "-8.1",
+    "longitude": "-8.40"
+  },
+  {
+    "tipo": "esportivos",
+    "nome": "Chevrolet Corvette Z06",
+    "desc": "Descrição Chevrolet Corvette Z06",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/Chevrolet_Corvette_Z06.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/chevrolet_corvette.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "esportivos",
+    "nome": "BMW M5",
+    "desc": "Descrição BMW M5",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/BMW.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/bmw-m5.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "esportivos",
+    "nome": "Renault Megane RS Trophy",
+    "desc": "Descrição Renault Megane RS Trophy",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/Renault_Megane_Trophy.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/renault_megane.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "esportivos",
+    "nome": "Maserati Grancabrio Sport",
+    "desc": "Descrição Maserati Grancabrio Sport",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/Maserati_Grancabrio_Sport.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/renault_megane.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "classicos",
+    "nome": "McLAREN MP4-12C",
+    "desc": "Descrição McLAREN MP4-12C",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/McLAREN.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/mcLaren.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "esportivos",
+    "nome": "MERCEDES-BENZ C63 AMG",
+    "desc": "Descrição MERCEDES-BENZ C63 AMG",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/esportivos/MERCEDES_BENZ_AMG.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/esportivos/mercedes.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "classicos",
+    "nome": "Bugatti Veyron",
+    "desc": "Descrição Bugatti Veyron",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Bugatti_Veyron.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/luxo/bugatti_veyron.mp4",
+    "latitude": "47.9536592",
+    "longitude": "0.2246777"
+  },
+  {
+    "tipo": "luxo",
+    "nome": "Ferrari Enzo23",
+    "desc": "Descrição Ferrari Enzo",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Ferrari_Enzo.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/luxo/ferrari_enzo.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "luxo",
+    "nome": "Lamborghini Reventon",
+    "desc": "Descrição Lamborghini Reventon",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Lamborghini_Reventon.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/luxo/lamborghini _reventon.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "luxo",
+    "nome": "Leblanc Mirabeau",
+    "desc": "Descrição Leblanc Mirabeau",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Leblanc_Mirabeau.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/luxo/leblanc_mirabeau.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "esportivos",
+    "nome": "Shelby Super1212312",
+    "desc": "Descrição Shelby Supercars Ultimate",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Shelby_Supercars_Ultimate.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/luxo/shelby.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "luxo",
+    "nome": "Pagani Zonda",
+    "desc": "Descrição Pagani Zonda",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Pagani_Zonda.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/luxo/pagani_zonda.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "luxo",
+    "nome": "Koenigsegg CCX",
+    "desc": "Descrição Koenigsegg CCX",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Koenigsegg_CCX.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/luxo/koenigsegg.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "luxo",
+    "nome": "Mercedes SLR McLaren",
+    "desc": "Descrição Mercedes SLR McLaren",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Mercedes_McLaren.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/luxo/mclaren_slr.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "luxo",
+    "nome": "Rolls Royce Phantom",
+    "desc": "Descrição Rolls Royce Phantom",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Rolls_Royce_Phantom.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/luxo/rolls_royce.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "luxo",
+    "nome": "Lexus LFAb",
+    "desc": "Descrição Lexus LFA",
+    "urlFoto": "http://www.livroandroid.com.br/livro/carros/luxo/Lexus_LFA.png",
+    "urlVideo": "http://www.livroiphone.com.br/carros/luxo/lexus.mp4",
+    "latitude": "-23.564224",
+    "longitude": "-46.653156"
+  },
+  {
+    "tipo": "luxo",
+    "nome": "lykan",
+    "desc": "super carro arabe",
+    "urlFoto": "https://storage.googleapis.com/livrows/lykan.jpg",
+    "urlVideo": "",
+    "latitude": "24.38",
+    "longitude": "54.55"
+  },
+  {
+    "tipo": "classicos",
+    "nome": "Ford focus",
+    "desc": "teste 123",
+    "urlFoto": "https://storage.googleapis.com/livrows/foto_carro_53_1442287383921.jpg",
+    "urlVideo": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "tipo": "esportivos",
+    "nome": "corolla ae86",
+    "desc": "drift",
+    "urlFoto": "https://storage.googleapis.com/livrows/foto_carro_54_1442287464939.jpg",
+    "urlVideo": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "tipo": "esportivos",
+    "nome": "Ferrari FF"
+  },
+  {
+    "tipo": "classicos",
+    "nome": "b",
+    "desc": "c",
+    "urlVideo": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "tipo": "esportivos",
+    "nome": "Jaguar",
+    "desc": "Jaguar da Amazonia",
+    "urlFoto": "https://storage.googleapis.com/livrows/jaguar.jpg",
+    "urlVideo": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "tipo": "classicos",
+    "nome": "Fusca",
+    "latitude": "2132132",
+    "longitude": "584645"
+  }
+]
